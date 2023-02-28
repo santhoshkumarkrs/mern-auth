@@ -1,1 +1,1 @@
-Register and Login Authentication
+Register and Login MERN Authentication
