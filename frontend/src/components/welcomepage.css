@@ -1,0 +1,33 @@
+img{
+    height: 100vh;
+    width: 100%;
+     
+    position: fixed; 
+ }
+ /* .content{
+     position: absolute;
+     margin-left: 400px;
+     color: brown;
+     font-family: 'Times New Roman', Times, serif;
+     font-weight: 800;
+ 
+ } */
+ .admission{
+     position: absolute;
+     margin-top: 600px;
+      margin-left: 1100px;
+     
+ }
+ .fees{
+     position: absolute;
+     margin-top: 650px;
+     margin-left: 1100px;
+ }
+ .back{
+     position: absolute;
+     margin-top: 600px;
+     margin-left: 90%;
+     font-weight: 600;
+     font-size: xx-large;
+     color: white;
+ }
